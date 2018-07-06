@@ -45,10 +45,13 @@ public class ProductForm {
     public void setImageUrlm(String imageUrl) {
         this.imageUrl = imageUrl;
         System.out.print("This is a test");
+<<<<<<< HEAD
         System.out.println("this is test 5");
 
-        System.out.println("merge2");
 
+=======
+        System.out.println("this is test 4");
+>>>>>>> 3491a5d3d9d9b920328afe8cf646b4d903c5600f
         System.out.println("whats up");
         System.out.println("hghghg");
 
@@ -69,5 +72,6 @@ public class ProductForm {
         System.out.println("ok");
     }
 
+   
 
 }
