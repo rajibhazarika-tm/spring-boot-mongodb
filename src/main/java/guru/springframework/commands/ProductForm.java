@@ -1,6 +1,8 @@
 package guru.springframework.commands;
 
 
+import ch.qos.logback.core.net.SyslogOutputStream;
+
 import java.math.BigDecimal;
 
 /**
@@ -42,5 +44,6 @@ public class ProductForm {
 
     public void setImageUrl(String imageUrl) {
         this.imageUrl = imageUrl;
+        System.out.print("This is a test");
     }
 }
