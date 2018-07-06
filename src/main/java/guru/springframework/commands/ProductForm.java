@@ -42,7 +42,7 @@ public class ProductForm {
         return imageUrl;
     }
 
-    public void setImageUrl(String imageUrl) {
+    public void setImageUrlm(String imageUrl) {
         this.imageUrl = imageUrl;
         System.out.print("This is a test");
         System.out.println("this is test 5");
