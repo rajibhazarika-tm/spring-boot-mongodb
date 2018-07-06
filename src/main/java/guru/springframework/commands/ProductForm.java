@@ -34,7 +34,7 @@ public class ProductForm {
         return price;
     }
 
-    public void setPrices(BigDecimal price) {
+    public void setPrice(BigDecimal price) {
         this.price = price;
     }
 
