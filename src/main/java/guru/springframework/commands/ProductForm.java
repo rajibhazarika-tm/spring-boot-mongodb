@@ -45,7 +45,7 @@ public class ProductForm {
     public void setImageUrlm(String imageUrl) {
         this.imageUrl = imageUrl;
         System.out.print("This is a test");
-        System.out.println("this is test 4");
+        System.out.println("this is test 5");
         System.out.println("whats up");
         System.out.println("hghghg");
 
