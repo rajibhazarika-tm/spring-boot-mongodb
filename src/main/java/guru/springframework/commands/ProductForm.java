@@ -38,7 +38,7 @@ public class ProductForm {
         this.price = price;
     }
 
-    public String getImageUrl() {
+    public String getImUrl() {
         return imageUrl;
     }
 
