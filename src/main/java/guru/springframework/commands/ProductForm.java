@@ -47,7 +47,7 @@ public class ProductForm {
         System.out.print("This is a test");
         System.out.println("this is test 5");
 
-        System.out.println("merge1");
+        System.out.println("merge2");
 
         System.out.println("whats up");
         System.out.println("hghghg");
@@ -69,5 +69,5 @@ public class ProductForm {
         System.out.println("ok");
     }
 
-   
+
 }
