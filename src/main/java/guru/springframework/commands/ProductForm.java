@@ -46,11 +46,11 @@ public class ProductForm {
         this.imageUrl = imageUrl;
         System.out.print("This is a test");
         System.out.println("this is test 5");
-<<<<<<< .merge_file_93Yvxd
+
         System.out.println("merge1");
-=======
+
         System.out.println("whats up");
->>>>>>> .merge_file_bcyCYw
+
 
     }
 }
