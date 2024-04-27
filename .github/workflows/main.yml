@@ -9,6 +9,6 @@ jobs:
          - name: step2
            uses: actions/checkout@v3
          - name: step3
-           run: mvn compile
+           run: mvn -B compile
        
   
