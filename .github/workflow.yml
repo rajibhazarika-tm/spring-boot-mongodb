@@ -1,0 +1,6 @@
+name: Test workflow
+on: [push]
+jobs:
+  build:
+    - name : This is a test
+      run : echo "This is a test"
