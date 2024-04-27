@@ -34,15 +34,15 @@ public class ProductForm {
         return price;
     }
 
-    public void setPrices(BigDecimal price) {
+    public void setPrice(BigDecimal price) {
         this.price = price;
     }
 
-    public String getImUrl() {
+    public String getImageUrl() {
         return imageUrl;
     }
 
-    public void setImageUrlm(String imageUrl) {
+    public void setImageUrl(String imageUrl) {
         this.imageUrl = imageUrl;
         System.out.print("This is a test");
 
